@@ -1,3 +1,3 @@
-# bout-de-typescript
+# Bout de TypeScript
 
 Some useful Typescript Snippet.
