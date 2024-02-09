@@ -1,10 +1,6 @@
 /**
  * Perform search againt the given string.
  * Yield for every result array.
- * 
- * Useful with
- * {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of forof}
- * or {@link https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from Array.from()}
  * @example
  * // Capture 'a' and the next char.
  * const re = /a(.)?/g

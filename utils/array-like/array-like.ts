@@ -1,4 +1,4 @@
-import type { OptionalNullable } from "./types.ts";
+import type { OptionalNullable } from "../types.ts";
 
 /**
  * Get length from a object.

@@ -1,4 +1,4 @@
-import { assertIsNan } from "./error.ts";
+import { assertIsNan } from "../error.ts";
 
 /**
  * Generate a list of char between the start to end char code included.
